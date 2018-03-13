@@ -54,7 +54,7 @@ class PyTest(TestCommand):
 
 setup(
     name='graphql-core',
-    version="2.0.1.dev",
+    version='2.0.1.1',
     description='GraphQL implementation for Python',
     url='https://github.com/graphql-python/graphql-core',
     download_url='https://github.com/graphql-python/graphql-core/releases',
